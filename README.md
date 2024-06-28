@@ -12,7 +12,6 @@ A project that help query content of a PDF file using RAG from LangChain
     * Step 04: Run the app with Gradio                              
                          
         ![Image 01: Step to do in Gradio](gradio_steps.png)
+## Result  
 
-## Result                                                           
-        
-        ![Image 02: Demo result in Gradio](result_demo.png)
+![Image 02: Demo result in Gradio](result_demo.png)
